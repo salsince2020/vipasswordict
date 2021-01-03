@@ -3,6 +3,7 @@ idword,word
 2,ai
 3,am
 4,an
+0962818544sAl
 5,ang
 6,anh
 7,ao
